@@ -4,7 +4,9 @@
 <jsp:useBean id="listaSpesa" class="it.capone.bean.ListaSpesaBean" scope="request" />
 <html>
     <head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Lista della spesa</title>
+        <link rel="stylesheet" type="text/css" href="css/stili.css"/>
     </head>
     <body>
         <h1>Lista della spesa</h1>

@@ -14,6 +14,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Modifica voce</title>
+        <link rel="stylesheet" type="text/css" href="css/stili.css"/>
     </head>
     <body>
         <h1>Modifica la voce della spesa</h1>
